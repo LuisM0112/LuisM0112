@@ -9,7 +9,7 @@
 
 <div align="center">
   <p>📖 Estoy estudiando en <strong><a href="https://fpalanturing.es/">CPIFP Alan Turing</a></strong></p>
-  <p>⚒️ Actualmente estoy de prácticas en <strong><a href="https://releevant.com/">releevant</a></strong></p>
+  <p>⚒️ Actualmente trabajando en mi <strong>Proyecto integrado</strong> (trabajo final del grado)</p>
   <p>🔍 Estoy aprendiendo <strong>React, Nodejs y MongoDB</strong></p>
 </div>
 <br>
@@ -24,8 +24,8 @@
   <h3 align="center">⚒️ Lenguajes, frameworks y herramientas ⚒️</h2>
   <br>
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=angular,html,css,vscode,visualstudio,github,git,md,postman" />
-      <img src="https://skillicons.dev/icons?i=cs,java,ts,js,py,kotlin,mysql,sqlite,flask,docker,androidstudio" /><br>
+      <img src="https://skillicons.dev/icons?i=angular,react,html,css,vscode,visualstudio,github,git,md,postman" />
+      <img src="https://skillicons.dev/icons?i=cs,java,ts,js,py,kotlin,mysql,sqlite,flask,docker,androidstudio,mongodb,nodejs" /><br>
   </div>
   <br>
   <div align="center">
