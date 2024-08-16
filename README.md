@@ -4,13 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Retina&size=35&duration=3000&pause=800&color=56AFE3&center=true&vCenter=true&random=false&width=435&lines=Hola!👋;Soy+Luis+Miguel!" alt="Hola!👋 Soy Luis miguel" />
 </h1>
 
-<h3 align="center">Soy un estudiante de programación en Málaga</h3>
+<h3 align="center">Soy un desarrollador de Málaga</h3>
 <br>
 
 <div align="center">
-  <p>📖 Estoy estudiando en <strong><a href="https://fpalanturing.es/">CPIFP Alan Turing</a></strong></p>
-  <p>⚒️ Actualmente trabajando en mi <strong>Proyecto integrado</strong> (trabajo final del grado)</p>
-  <p>🔍 Estoy aprendiendo <strong>React, Nodejs y MongoDB</strong></p>
+  <p>📚 Estudié un grado superior de <strong>Desarrollo de aplicaciones multiplataforma</strong></p>
+  <p>📖 Voy a comenzar un master de especialización en <strong>Ciberseguridad</strong></p>
+  <p>⚒️ Actualmente estoy desarrollando proyectos personales</p>
+  <p>🔍 Estoy aprendiendo <strong>React-Native, Nodejs y PostgreSQL</strong></p>
 </div>
 <br>
 
