@@ -8,10 +8,9 @@
 <br>
 
 <div align="center">
-  <p>📚 Estudié un grado superior de <strong>Desarrollo de aplicaciones multiplataforma</strong></p>
-  <p>📖 Voy a comenzar un master de especialización en <strong>Ciberseguridad</strong></p>
+  <p>📚 Tengo un grado de especialización en <strong>Ciberseguridad</strong> </p>
+  <p>📚 y un grado superior en <strong>Desarrollo de aplicaciones multiplataforma</strong> </p>
   <p>⚒️ Actualmente estoy desarrollando proyectos personales</p>
-  <p>🔍 Estoy aprendiendo <strong>React-Native, Nodejs y PostgreSQL</strong></p>
 </div>
 <br>
 
@@ -25,8 +24,8 @@
   <h3 align="center">⚒️ Lenguajes, frameworks y herramientas ⚒️</h2>
   <br>
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=angular,react,html,css,vscode,visualstudio,github,git,md,postman" />
-      <img src="https://skillicons.dev/icons?i=cs,java,ts,js,py,kotlin,mysql,sqlite,flask,docker,androidstudio,mongodb,nodejs" /><br>
+      <img src="https://skillicons.dev/icons?i=angular,react,html,css,github,git" /><br>
+      <img src="https://skillicons.dev/icons?i=cs,java,ts,js,py,kotlin,mysql,sqlite,docker" /><br>
   </div>
   <br>
   <div align="center">
